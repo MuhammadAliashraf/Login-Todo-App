@@ -1,0 +1,20 @@
+.listitems{
+    margin-right: 5px !important;
+    margin-top: 2px !important;
+}
+.buttonitems{
+    margin-top: 8px !important;
+    margin-left: 10px !important;
+}
+body{
+    text-align: center;
+    color: White !important;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(124, 124, 124) !important;
+}
+.listitems{
+    text-decoration: none ;
+    font-size: 30px;
+    margin-top: 5px !important;
+    list-style: none;
+}
